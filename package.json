@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp_send",
+  "version": "1.0.0",
+  "description": "this app send a message to a list of phone numbers",
+  "main": "send.js",
+  "scripts": {
+    "test": "Error: no test specified"
+  },
+  "author": "Avielnis",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
